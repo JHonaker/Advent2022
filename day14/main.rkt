@@ -1,6 +1,6 @@
 #lang racket
 
-(require "pt.rkt")
+(require "../pt.rkt")
 
 (define pt-down (pt 0 1))
 (define pt-up (pt 0 -1))
